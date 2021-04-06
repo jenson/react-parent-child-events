@@ -5,8 +5,8 @@ React Parent Child Component Events Simple &amp; Minimal Demo.
 
 Installation
 
-npm install
+*npm install*
 
 Run Application
 
-npm start
+*npm start*
